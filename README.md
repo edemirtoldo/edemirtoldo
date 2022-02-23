@@ -1,24 +1,20 @@
 
 <h1 align="center">
-    Hi there, 
-    <img src="https://raw.githubusercontent.com/krol3/krol3/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
-  I'm <a href="https://www.linkedin.com/in/edemirtoldo/" target="_blank">Edemir Toldo!</a>
+    Olá, 
+  sou <a href="https://www.linkedin.com/in/edemirtoldo/" target="_blank">Edemir Toldo!</a>
 </h1>
 <h3 align="center">
-I'm <a href="https://www.linkedin.com/in/edemirtoldo/"> <b>Edemir Toldo</b> </a>, a DevOps Engineer 🚀 in Brazil
+Eu sou <a href="https://www.linkedin.com/in/edemirtoldo/"> <b>Edemir Toldo</b> </a>, Engenheiro DevOps 🚀 no Brazil
 </h3>
 
 <h3 align="center">
-Glad to see you here! 
+Estou contente por te ver aqui! 
   <img src="https://visitor-badges.glitch.me?username=edemirtoldo&repo=edemirtoldo" alt="Visitor Badge" />
 </h3>
 
 </div>
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Conecte-se comigo
 <div align="center">
 <a href="https://linkedin.com/in/edemirtoldo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
 <a href="https://twitter.com/edemir_toldo" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -42,3 +38,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 😄 Falando sobre coisas pessoais
+
+- 🔭 Atualmente estou em transição de carreia de Sysadmin para Engenheiro Devops.
+- 🌱 Estou aprendendo Containers e Kubernetes.
+- 👯 Estou procurando colaborar com outros desenvolvedores na comunidade.
+- 💬 Pergunte-me sobre: Container e Kubernetes.
+- 🥅 Metas: Contribuir mais para projetos de Código Aberto.
+
+
