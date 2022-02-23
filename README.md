@@ -16,6 +16,15 @@ Glad to see you here!
   <img src="https://visitor-badges.glitch.me?username=edemirtoldo&repo=edemirtoldo" alt="Visitor Badge" />
 </h3>
 
+</div>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></img> Connect with me 🙃
+<div align="center">
+<a href="https://linkedin.com/in/edemirtoldo" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>
+<a href="https://twitter.com/edemir_toldo" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://www.instagram.com/edemir_toldo" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    
+</div>
 
 
 
